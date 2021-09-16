@@ -19,7 +19,8 @@
             "btc_address": "tb1qxp5elwrujt7jet6ldveqfgvn6q938vcr2d9jv0",
             "xmr_address": "753GCi3bmz1Hw7bBqSg9bQKWoMck5i2eUeKFbkS8Az5AcpN5FtWzERV4ZwD95VZcj7NjhWNxQz9P8XedKmxs3uUyGMTf9cg",
             "btc_total": 0,
-            "xmr_total": 0
+            "xmr_total": 0,
+            "total": 0
         },
         {
             "goal_usd": 5,
@@ -40,7 +41,8 @@
             "btc_address": "tb1q0crmghjju6cdwydjncne787d6lyegwxepcz4l3",
             "xmr_address": "77Ks8TziF3URMeGT7ZkFeoagibnZou9pVhHcKvf2ZCyhi1snFu3xztyK7hroXbKrLQQGdPoBAx5VK8Z2MPFvC5Yy6hBd62J",
             "btc_total": 0,
-            "xmr_total": 0
+            "xmr_total": 0,
+            "total":0
         }
     ],
     "metadata": {
