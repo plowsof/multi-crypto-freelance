@@ -1,38 +1,21 @@
 {
-  "addresses": [
-    {
-      "address": "tb1qe65kz59l2rc3p60sksxts4yz2eh75mrnsl9k2a",
-      "confirmed": "0.00052",
-      "unconfirmed": "0.0012",
-      "contributors": 4,
-      "history": [
-        {
-          "1e-05": "2021-09-16 20:28:10.141663"
-        },
-        {
-          "0.0001": "2021-09-16 20:29:20.296503"
-        },
-        {
-          "0.0001": "2021-09-17 13:43:26.159080"
-        },
-        {
-          "0.00099": "2021-09-17 14:08:26.850135"
-        }
-      ]
-    },
-    {
-      "address": "tb1qd7dny7c6zg5q5nhz4ele3tpt53j76huwklyh74",
-      "confirmed": 0,
-      "unconfirmed": "0.0001",
-      "contributors": 1,
-      "history": [
-        {
-          "0.0001": "2021-09-16 20:30:40.453818"
-        }
-      ]
-    }
-  ],
-  "metadata": {
-    "date_modified": "2021-09-17 14:08:26.850112"
-  }
+      "addresses": [
+            {
+                  "address": "tb1q8skgk3yyj7f89jm34w54ekz4uv2gvta36etgwu",
+                  "confirmed": 0,
+                  "unconfirmed": 0,
+                  "contributors": 0,
+                  "history": []
+            },
+            {
+                  "address": "tb1q4v09mv9jzpdl5r0tqe7v6szy54m02kzssa9h27",
+                  "confirmed": 0,
+                  "unconfirmed": 0,
+                  "contributors": 0,
+                  "history": []
+            }
+      ],
+      "metadata": {
+            "date_modified": "2021-09-18 00:34:40.801388"
+      }
 }
