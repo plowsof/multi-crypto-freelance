@@ -31,13 +31,13 @@
             {
                   "goal_usd": 5,
                   "usd_total": 0,
-                  "contributors": 0,
+                  "contributors": 1,
                   "description": "buy me a coffee",
                   "percent": 0,
                   "hours": null,
                   "type": "gift",
                   "created_date": "2021-09-18 00:34:40.696360",
-                  "modified_date": "2021-09-18 00:34:40.696375",
+                  "modified_date": "2021-09-18 00:56:22.232765",
                   "author_name": "",
                   "author_email": "",
                   "id": "7A6dCKdr41gY",
@@ -47,15 +47,20 @@
                   "btc_address": "tb1q4v09mv9jzpdl5r0tqe7v6szy54m02kzssa9h27",
                   "xmr_address": "7A6dCKdr41gYezrBFfqT2CCBcZFMDSV2MGNXNcUfaaPR8k8JK2CbqcDekqfcgcM3Ff19MDsPfy8ydda6PpDLkqUZGFquKBu",
                   "btc_total": 0,
-                  "xmr_total": 0,
+                  "xmr_total": 10.0,
                   "hour_goal": 5,
-                  "history": []
+                  "history": [
+                        {
+                              "amount": 10.0,
+                              "date_time": "2021-09-18 00:56:22.232796"
+                        }
+                  ]
             }
       ],
       "metadata": {
             "total": 0,
             "contributors": 0,
-            "modified": "2021-09-18 00:47:00.022127",
+            "modified": "2021-09-18 00:56:22.232810",
             "title": "",
             "description": "",
             "image": "",
