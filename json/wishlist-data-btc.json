@@ -2,10 +2,15 @@
   "addresses": [
     {
       "address": "tb1q8skgk3yyj7f89jm34w54ekz4uv2gvta36etgwu",
-      "confirmed": 0,
-      "unconfirmed": 0,
-      "contributors": 0,
-      "history": []
+      "confirmed": "0.001",
+      "unconfirmed": "0",
+      "contributors": 1,
+      "history": [
+        {
+          "amount": 0.001,
+          "date_time": "2021-09-18 13:53:50.898657"
+        }
+      ]
     },
     {
       "address": "tb1q4v09mv9jzpdl5r0tqe7v6szy54m02kzssa9h27",
@@ -21,6 +26,6 @@
     }
   ],
   "metadata": {
-    "date_modified": "2021-09-18 13:48:00.130033"
+    "date_modified": "2021-09-18 13:53:50.898630"
   }
 }
