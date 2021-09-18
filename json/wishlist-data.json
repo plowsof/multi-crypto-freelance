@@ -2,7 +2,7 @@
       "wishlist": [
             {
                   "goal_usd": 472.5,
-                  "usd_total": 0,
+                  "usd_total": 40,
                   "contributors": 1,
                   "description": "I did something",
                   "percent": 0,
@@ -30,7 +30,7 @@
             },
             {
                   "goal_usd": 5,
-                  "usd_total": 0,
+                  "usd_total": 1.50,
                   "contributors": 1,
                   "description": "buy me a coffee",
                   "percent": 0,
