@@ -4,7 +4,7 @@
                   "goal_usd": 472.5,
                   "usd_total": 0,
                   "contributors": 2,
-                  "description": "a self hosted crowd-funding / wishlist<br>with live updates + more. <href='https://github.com/plowsof/xmr-wishlist-aaS'>(source)</a><br>In action here:<br>- <a href='https://xmr.radio/funding'>XMR.radio</a><br>- <a href='https://moneroart.neocities.org/'>XMR Art Fund</a> <br>- <a href='https://funding.monerujo.app/'>Monerujo/funding</a>",
+                  "description": "a self hosted crowd-funding / wishlist<br>with live updates + more. <a href='https://github.com/plowsof/xmr-wishlist-aaS'>(source)</a><br>In action here:<br>- <a href='https://xmr.radio/funding'>XMR.radio</a><br>- <a href='https://moneroart.neocities.org/'>XMR Art Fund</a> <br>- <a href='https://funding.monerujo.app/'>Monerujo/funding</a>",
                   "percent": 0,
                   "hours": 30,
                   "type": "work",
@@ -64,7 +64,7 @@
       "metadata": {
             "total": 0,
             "contributors": 0,
-            "modified": "2021-09-18 22:051.2339",
+            "modified": "2021209-18 22:051.2339",
             "title": "",
             "description": "",
             "image": "",
