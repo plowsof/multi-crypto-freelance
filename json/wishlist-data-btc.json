@@ -2,8 +2,8 @@
   "addresses": [
     {
       "address": "tb1q8skgk3yyj7f89jm34w54ekz4uv2gvta36etgwu",
-      "confirmed": "0.0003",
-      "unconfirmed": "0.0001",
+      "confirmed": "0.000003",
+      "unconfirmed": "0.00001",
       "contributors": 2,
       "history": [
         {
