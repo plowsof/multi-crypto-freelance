@@ -2,13 +2,17 @@
   "addresses": [
     {
       "address": "tb1q9lydqsuawnexjx433m66yfw2kyyep3gmpsj5cs",
-      "confirmed": "0",
+      "confirmed": "0.0001",
       "unconfirmed": "0.0001",
-      "contributors": 1,
+      "contributors": 2,
       "history": [
         {
           "amount": 0.0001,
           "date_time": "2021-09-18 23:20:57.952760"
+        },
+        {
+          "amount": 0.0001,
+          "date_time": "2021-09-19 00:13:55.904635"
         }
       ]
     },
@@ -21,6 +25,6 @@
     }
   ],
   "metadata": {
-    "date_modified": "2021-09-18 23:20:57.952722"
+    "date_modified": "2021-09-19 00:13:55.904600"
   }
 }
