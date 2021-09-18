@@ -1,99 +1,21 @@
 {
-  "addresses": [
-    {
-      "address": "tb1q8skgk3yyj7f89jm34w54ekz4uv2gvta36etgwu",
-      "confirmed": "0.00311",
-      "unconfirmed": "0.0003",
-      "contributors": 14,
-      "history": [
-        {
-          "amount": 0.001,
-          "date_time": "2021-09-18 13:53:50.898657"
-        },
-        {
-          "amount": 0.00030999999999999995,
-          "date_time": "2021-09-18 15:04:43.335933"
-        },
-        {
-          "amount": 0.00049,
-          "date_time": "2021-09-18 15:09:25.187006"
-        },
-        {
-          "amount": 0.00049,
-          "date_time": "2021-09-18 15:09:25.187006"
-        },
-        {
-          "amount": 0.00049,
-          "date_time": "2021-09-18 15:09:25.187006"
-        },
-        {
-          "amount": 0.00049,
-          "date_time": "2021-09-18 15:09:25.187006"
-        },
-        {
-          "amount": 0.001,
-          "date_time": "2021-09-18 15:15:33.973406"
-        },
-        {
-          "amount": 1.0000000000000026e-05,
-          "date_time": "2021-09-18 17:25:15.650991"
-        },
-        {
-          "amount": 0.0,
-          "date_time": "2021-09-18 17:32:42.560954"
-        },
-        {
-          "amount": 9.999999999999983e-05,
-          "date_time": "2021-09-18 17:57:11.516861"
-        },
-        {
-          "amount": 0.0,
-          "date_time": "2021-09-18 18:08:28.402352"
-        },
-        {
-          "amount": 9.999999999999983e-05,
-          "date_time": "2021-09-18 18:18:51.958189"
-        },
-        {
-          "amount": 0.00010000000000000026,
-          "date_time": "2021-09-18 21:56:33.333808"
-        },
-        {
-          "amount": 0.0,
-          "date_time": "2021-09-18 22:09:14.813301"
-        },
-        {
-          "amount": 9.999999999999983e-05,
-          "date_time": "2021-09-18 22:13:19.779912"
-        },
-        {
-          "amount": 0.00010000000000000026,
-          "date_time": "2021-09-18 22:19:06.330884"
-        },
-        {
-          "amount": 9.999999999999983e-05,
-          "date_time": "2021-09-18 22:19:30.127256"
-        }
-      ]
-    },
-    {
-      "address": "tb1q4v09mv9jzpdl5r0tqe7v6szy54m02kzssa9h27",
-      "confirmed": "0.0003",
-      "unconfirmed": "0.0001",
-      "contributors": 2,
-      "history": [
-        {
-          "amount": 0.0003,
-          "date_time": "2021-09-18 13:48:00.130058"
-        },
-        {
-          "amount": 9.999999999999999e-05,
-          "date_time": "2021-09-18 22:02:12.678774"
-        }
-      ]
-    }
-  ],
-  "metadata": {
-    "date_modified": "2021-09-18 22:19:30.127224"
-  }
+      "addresses": [
+            {
+                  "address": "tb1q9lydqsuawnexjx433m66yfw2kyyep3gmpsj5cs",
+                  "confirmed": 0,
+                  "unconfirmed": 0,
+                  "contributors": 0,
+                  "history": []
+            },
+            {
+                  "address": "tb1qavyuhut2vj73ftms5lvl3spxzs98he6uq7uddq",
+                  "confirmed": 0,
+                  "unconfirmed": 0,
+                  "contributors": 0,
+                  "history": []
+            }
+      ],
+      "metadata": {
+            "date_modified": "2021-09-18 23:00:30.441156"
+      }
 }
