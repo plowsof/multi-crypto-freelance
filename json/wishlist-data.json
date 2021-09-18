@@ -3,13 +3,13 @@
             {
                   "goal_usd": 472.5,
                   "usd_total": 0,
-                  "contributors": 2,
+                  "contributors": 3,
                   "description": "a self hosted crowd-funding / wishlist<br>with live updates + more. <a href='https://github.com/plowsof/xmr-wishlist-aaS'>(source)</a><br>In action here:<br>- <a href='https://xmr.radio/funding'>XMR.radio</a><br>- <a href='https://moneroart.neocities.org/'>XMR Art Fund</a> <br>- <a href='https://funding.monerujo.app/'>Monerujo/funding</a>",
                   "percent": 0,
                   "hours": 30,
                   "type": "work",
                   "created_date": "2021-09-18 23:00:23.402631",
-                  "modified_date": "2021-09-19 00:31:29.237556",
+                  "modified_date": "2021-09-19 00:40:31.744368",
                   "author_name": "",
                   "author_email": "",
                   "id": "79xaDqriTE38",
@@ -19,7 +19,7 @@
                   "btc_address": "tb1q9lydqsuawnexjx433m66yfw2kyyep3gmpsj5cs",
                   "xmr_address": "79xaDqriTE38dAeNTRoaM4PRhHt1tfPFJaW7qvpJa4woEXN32pusJ9QDgrJnWQy5qrhwMVQD3QhQuCoh7VjekYkTU1htqn3",
                   "btc_total": 0,
-                  "xmr_total": 20.0,
+                  "xmr_total": 30.0,
                   "hour_goal": 15,
                   "history": [
                         {
@@ -29,6 +29,10 @@
                         {
                               "amount": 10.0,
                               "date_time": "2021-09-19 00:31:29.237594"
+                        },
+                        {
+                              "amount": 10.0,
+                              "date_time": "2021-09-19 00:40:31.744393"
                         }
                   ]
             },
@@ -59,7 +63,7 @@
       "metadata": {
             "total": 0,
             "contributors": 0,
-            "modified": "2021-09-19 00:31:29.237613",
+            "modified": "2021-09-19 00:40:31.744403",
             "title": "",
             "description": "",
             "image": "",
