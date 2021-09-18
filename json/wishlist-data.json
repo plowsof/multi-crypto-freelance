@@ -3,13 +3,13 @@
             {
                   "goal_usd": 472.5,
                   "usd_total": 0,
-                  "contributors": 1,
+                  "contributors": 2,
                   "description": "An easy to implement, self hosted funding<br>method with live updates. In action here:<br>- XMR.radio<br>- XMR Art Fund <br>- Monerujo ",
                   "percent": 0,
                   "hours": 30,
                   "type": "work",
                   "created_date": "2021-09-18 13:42:58.609717",
-                  "modified_date": "2021-09-18 18:24:52.012205",
+                  "modified_date": "2021-09-18 21:59:15.031400",
                   "author_name": "",
                   "author_email": "",
                   "id": "77A6V4RUMPVC",
@@ -19,12 +19,16 @@
                   "btc_address": "tb1q8skgk3yyj7f89jm34w54ekz4uv2gvta36etgwu",
                   "xmr_address": "77A6V4RUMPVCQJVXX4iao8PySfzyrXkt8U4QLsYZVMv42kutihG4ifKdsLa3WHPdyRH58z762g5CVC5brmDhDHyk12U9WRU",
                   "btc_total": 0,
-                  "xmr_total": 10.0,
+                  "xmr_total": 20.0,
                   "hour_goal": 15,
                   "history": [
                         {
                               "amount": 10.0,
                               "date_time": "2021-09-18 18:24:52.012233"
+                        },
+                        {
+                              "amount": 10.0,
+                              "date_time": "2021-09-18 21:59:15.031433"
                         }
                   ]
             },
@@ -55,7 +59,7 @@
       "metadata": {
             "total": 0,
             "contributors": 0,
-            "modified": "2021-09-18 18:24:52.02144",
+            "modified": "2021-09-18 21:59:15.031451",
             "title": "",
             "description": "",
             "image": "",
