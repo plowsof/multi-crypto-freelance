@@ -4,7 +4,7 @@
                   "goal_usd": 472.5,
                   "usd_total": 0,
                   "contributors": 1,
-                  "description": "I did something",
+                  "description": "An easy to implement, self hosted funding<br>method with live updates. In action here:<br> - XMR.radio<br>- XMR Art Fund <br>- Monerujo ",
                   "percent": 0,
                   "hours": 30,
                   "type": "work",
@@ -55,7 +55,7 @@
       "metadata": {
             "total": 0,
             "contributors": 0,
-            "modified": "2021-09-18 18:24:52.012244",
+            "modified": "2021-09-18 18:24:52.02244",
             "title": "",
             "description": "",
             "image": "",
