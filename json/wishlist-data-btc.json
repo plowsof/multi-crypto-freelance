@@ -1,26 +1,21 @@
 {
-  "addresses": [
-    {
-      "address": "tb1qsnthcvhes7y5eeqrwnwz5ucn4mjcu4fmtyn0xd",
-      "confirmed": "0.0002",
-      "unconfirmed": "0",
-      "contributors": 1,
-      "history": [
-        {
-          "amount": 0.0002,
-          "date_time": "2021-09-19 12:05:25.222239"
-        }
-      ]
-    },
-    {
-      "address": "tb1q3u7ufgfyh8xhj5mzyqv9xp6d2ny3dvanvwel9l",
-      "confirmed": 0,
-      "unconfirmed": 0,
-      "contributors": 0,
-      "history": []
-    }
-  ],
-  "metadata": {
-    "date_modified": "2021-09-19 12:05:25.222161"
-  }
+      "addresses": [
+            {
+                  "address": "bc1qs8jac555vqk6m2qff4r8jjr249ckjkt4xw0czg",
+                  "confirmed": 0,
+                  "unconfirmed": 0,
+                  "contributors": 0,
+                  "history": []
+            },
+            {
+                  "address": "bc1qrj8vz3gjrnnz7npv6tl77f9sq7shcqhh0l6pj9",
+                  "confirmed": 0,
+                  "unconfirmed": 0,
+                  "contributors": 0,
+                  "history": []
+            }
+      ],
+      "metadata": {
+            "date_modified": "2021-09-19 13:48:23.059869"
+      }
 }
