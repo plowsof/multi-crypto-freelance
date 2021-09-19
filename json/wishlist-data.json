@@ -3,13 +3,13 @@
             {
                   "goal_usd": 472.5,
                   "usd_total": 0,
-                  "contributors": 1,
+                  "contributors": 2,
                   "description": "a self hosted crowd-funding / wishlist<br>with live updates + more. <a href='https://github.com/plowsof/xmr-wishlist-aaS'>(source)</a><br>In action here:<br>- <a href='https://xmr.radio/funding'>XMR.radio</a><br>- <a href='https://moneroart.neocities.org/'>XMR Art Fund</a> <br>- <a href='https://funding.monerujo.app/'>Monerujo/funding</a>",
                   "percent": 0,
                   "hours": 30,
                   "type": "work",
                   "created_date": "2021-09-19 13:48:03.661389",
-                  "modified_date": "2021-09-19 14:40:51.499105",
+                  "modified_date": "2021-09-19 22:41:40.211220",
                   "author_name": "",
                   "author_email": "",
                   "id": "85tLenMpJMGh",
@@ -19,12 +19,16 @@
                   "btc_address": "bc1qs8jac555vqk6m2qff4r8jjr249ckjkt4xw0czg",
                   "xmr_address": "85tLenMpJMGhtYsc1nSMBKRzB98omh7m1CqnJScze89oH21uBQTjzBz666MhHgxfCTEQvfEFxEW3dRCGJ5nL7QaX3CRJaob",
                   "btc_total": 0,
-                  "xmr_total": 0.0001,
+                  "xmr_total": 0.10010000000000001,
                   "hour_goal": 15,
                   "history": [
                         {
                               "amount": 0.0001,
                               "date_time": "2021-09-19 14:40:51.499184"
+                        },
+                        {
+                              "amount": 0.1,
+                              "date_time": "2021-09-19 22:41:40.211306"
                         }
                   ]
             },
@@ -60,7 +64,7 @@
       "metadata": {
             "total": 0,
             "contributors": 0,
-            "modified": "2021-09-19 14:59:57.87114",
+            "modified": "2021-09-19 22:41:40.211362",
             "title": "",
             "description": "",
             "image": "",
