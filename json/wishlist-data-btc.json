@@ -1,54 +1,21 @@
 {
-  "addresses": [
-    {
-      "address": "tb1q9lydqsuawnexjx433m66yfw2kyyep3gmpsj5cs",
-      "confirmed": "0.0008",
-      "unconfirmed": "0.0001",
-      "contributors": 8,
-      "history": [
-        {
-          "amount": 0.0001,
-          "date_time": "2021-09-18 23:20:57.952760"
-        },
-        {
-          "amount": 0.0001,
-          "date_time": "2021-09-19 00:13:55.904635"
-        },
-        {
-          "amount": 0.00010000000000000002,
-          "date_time": "2021-09-19 00:23:06.866205"
-        },
-        {
-          "amount": -5.421010862427522e-20,
-          "date_time": "2021-09-19 00:35:27.866149"
-        },
-        {
-          "amount": 9.999999999999999e-05,
-          "date_time": "2021-09-19 00:44:13.087003"
-        },
-        {
-          "amount": 5.421010862427522e-20,
-          "date_time": "2021-09-19 00:57:53.778184"
-        },
-        {
-          "amount": 9.999999999999999e-05,
-          "date_time": "2021-09-19 01:58:15.473982"
-        },
-        {
-          "amount": 0.0004000000000000001,
-          "date_time": "2021-09-19 11:16:14.606581"
-        }
-      ]
-    },
-    {
-      "address": "tb1qavyuhut2vj73ftms5lvl3spxzs98he6uq7uddq",
-      "confirmed": 0,
-      "unconfirmed": 0,
-      "contributors": 0,
-      "history": []
-    }
-  ],
-  "metadata": {
-    "date_modified": "2021-09-19 11:16:14.606506"
-  }
+      "addresses": [
+            {
+                  "address": "tb1qsnthcvhes7y5eeqrwnwz5ucn4mjcu4fmtyn0xd",
+                  "confirmed": 0,
+                  "unconfirmed": 0,
+                  "contributors": 0,
+                  "history": []
+            },
+            {
+                  "address": "tb1q3u7ufgfyh8xhj5mzyqv9xp6d2ny3dvanvwel9l",
+                  "confirmed": 0,
+                  "unconfirmed": 0,
+                  "contributors": 0,
+                  "history": []
+            }
+      ],
+      "metadata": {
+            "date_modified": "2021-09-19 11:42:58.498952"
+      }
 }
