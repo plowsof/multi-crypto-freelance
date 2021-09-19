@@ -30,7 +30,7 @@
             },
             {
                   "goal_usd": 5,
-                  "usd_total": 0,
+                  "usd_total": 2.66,
                   "contributors": 1,
                   "description": ".. and buy me a coffee \ud83d\ude01",
                   "percent": 0,
@@ -47,7 +47,7 @@
                   "btc_address": "bc1qrj8vz3gjrnnz7npv6tl77f9sq7shcqhh0l6pj9",
                   "xmr_address": "88UbURD1esv6wJNqLEvJFn82JbX6awYW2BW4Sj2E3rahQbxP2C4FgGS6tdLp2wdPHJZ4PjgjuZbfi139oZ3LK9gcMXugv7C",
                   "btc_total": 0,
-                  "xmr_total": 0.018771675679,
+                  "xmr_total": 0.008771675679,
                   "hour_goal": 5,
                   "history": [
                         {
@@ -60,7 +60,7 @@
       "metadata": {
             "total": 0,
             "contributors": 0,
-            "modified": "2021-09-19 14:59:57.877984",
+            "modified": "2021-09-19 14:59:57.87114",
             "title": "",
             "description": "",
             "image": "",
