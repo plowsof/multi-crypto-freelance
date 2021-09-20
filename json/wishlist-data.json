@@ -2,7 +2,7 @@
       "wishlist": [
             {
                   "goal_usd": 472.5,
-                  "usd_total": 0,
+                  "usd_total": 450,
                   "contributors": 3,
                   "description": "a self hosted crowd-funding / wishlist<br>with live updates + more. <a href='https://github.com/plowsof/xmr-wishlist-aaS'>(source)</a><br>In action here:<br>- <a href='https://xmr.radio/funding'>XMR.radio</a><br>- <a href='https://moneroart.neocities.org/'>XMR Art Fund</a> <br>- <a href='https://funding.monerujo.app/'>Monerujo/funding</a>",
                   "percent": 0,
@@ -19,7 +19,7 @@
                   "btc_address": "SooooooN",
                   "xmr_address": "85tLenMpJMGhtYsc1nSMBKRzB98omh7m1CqnJScze89oH21uBQTjzBz666MhHgxfCTEQvfEFxEW3dRCGJ5nL7QaX3CRJaob",
                   "btc_total": 0,
-                  "xmr_total": 1.8367881410790001,
+                  "xmr_total": 0,
                   "hour_goal": 15,
                   "history": [
                         {
@@ -32,6 +32,10 @@
                         },
                         {
                               "amount": 1.736688141079,
+                              "date_time": "2021-09-20 02:10:09.589619"
+                        },
+                        {
+                              "amount": -1.8367881410790001,
                               "date_time": "2021-09-20 02:10:09.589619"
                         }
                   ]
