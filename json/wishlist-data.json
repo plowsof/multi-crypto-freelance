@@ -20,6 +20,7 @@
                   "bch_address": "SooooooN1",
                   "xmr_address": "85tLenMpJMGhtYsc1nSMBKRzB98omh7m1CqnJScze89oH21uBQTjzBz666MhHgxfCTEQvfEFxEW3dRCGJ5nL7QaX3CRJaob",
                   "btc_total": 0,
+                  "bch_total": 0,
                   "xmr_total": 0,
                   "hour_goal": 15,
                   "history": [
@@ -61,6 +62,7 @@
                   "bch_address": "SooooooN3",
                   "xmr_address": "88UbURD1esv6wJNqLEvJFn82JbX6awYW2BW4Sj2E3rahQbxP2C4FgGS6tdLp2wdPHJZ4PjgjuZbfi139oZ3LK9gcMXugv7C",
                   "btc_total": 0,
+                  "bch_total": 0,
                   "xmr_total": 0.013771675679,
                   "hour_goal": 5,
                   "history": [
