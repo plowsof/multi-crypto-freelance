@@ -75,38 +75,9 @@
                   "xmr_address": "88UbURD1esv6wJNqLEvJFn82JbX6awYW2BW4Sj2E3rahQbxP2C4FgGS6tdLp2wdPHJZ4PjgjuZbfi139oZ3LK9gcMXugv7C",
                   "btc_total": 0,
                   "bch_total": 0,
-                  "xmr_total": 5.713791126823001,
+                  "xmr_total": 0,
                   "hour_goal": 5,
-                  "history": [
-                        {
-                              "amount": 0.018771675679,
-                              "date_time": "2021-09-19 14:59:57.877935"
-                        },
-                        {
-                              "amount": 0.005,
-                              "date_time": "2021-09-20 18:57:43.996180"
-                        },
-                        {
-                              "amount": 1.20419099,
-                              "date_time": "2021-11-17 12:47:27.291848"
-                        },
-                        {
-                              "amount": 0.295828461144,
-                              "date_time": "2021-11-18 10:45:14.105806"
-                        },
-                        {
-                              "amount": 3.4,
-                              "date_time": "2022-02-23 23:34:02.437895"
-                        },
-                        {
-                              "amount": 0.65,
-                              "date_time": "2022-02-26 14:53:40.990164"
-                        },
-                        {
-                              "amount": 0.15,
-                              "date_time": "2022-04-03 23:39:45.979604"
-                        }
-                  ]
+                  "history": []
             }
       ],
       "metadata": {
