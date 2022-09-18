@@ -60,7 +60,7 @@
             },
             {
                   "goal_usd": 5,
-                  "usd_total": 2.66,
+                  "usd_total": 0,
                   "contributors": 19,
                   "description": ".. and buy me a coffee \ud83d\ude01",
                   "percent": 0,
@@ -79,7 +79,7 @@
                   "xmr_address": "88UbURD1esv6wJNqLEvJFn82JbX6awYW2BW4Sj2E3rahQbxP2C4FgGS6tdLp2wdPHJZ4PjgjuZbfi139oZ3LK9gcMXugv7C",
                   "btc_total": 0,
                   "bch_total": 0,
-                  "xmr_total": 6.399620674709,
+                  "xmr_total": 0,
                   "hour_goal": 5,
                   "history": [
                         {
