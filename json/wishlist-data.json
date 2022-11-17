@@ -65,13 +65,13 @@
             {
                   "goal_usd": 1000,
                   "usd_total": 0,
-                  "contributors": 0,
+                  "contributors": 1,
                   "description": ".. and buy me food/heating this winter \ud83d\ude01",
                   "percent": 0,
                   "hours": null,
                   "type": "gift",
                   "created_date": "2021-09-19 13:48:21.982890",
-                  "modified_date": "2022-07-13 00:10:51.281132",
+                  "modified_date": "2022-11-17 04:05:07.072586",
                   "author_name": "",
                   "author_email": "",
                   "id": "88UbURD1esv6",
@@ -83,12 +83,16 @@
                   "xmr_address": "88UbURD1esv6wJNqLEvJFn82JbX6awYW2BW4Sj2E3rahQbxP2C4FgGS6tdLp2wdPHJZ4PjgjuZbfi139oZ3LK9gcMXugv7C",
                   "btc_total": 0,
                   "bch_total": 0,
-                  "xmr_total": 0,
+                  "xmr_total": 1.0,
                   "hour_goal": 5,
                   "history": [
                         {
                               "amount": 7.086e-05,
                               "date_time": "2022-07-13 00:10:51.281223"
+                        },
+                        {
+                              "amount": 1.0,
+                              "date_time": "2022-11-17 04:05:07.072684"
                         }
                   ]
             }
@@ -96,7 +100,7 @@
       "metadata": {
             "total": 8.405560820172,
             "contributors": 23,
-            "modified": "2022-11-11 16:47:01.338610",
+            "modified": "2022-11-17 04:05:07.072751",
             "title": "",
             "description": "",
             "image": "",
